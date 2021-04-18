@@ -1,2 +1,2 @@
-Hello, my friend!
 Hi!
+Hello, my friend!
